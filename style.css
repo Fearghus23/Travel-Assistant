@@ -1,0 +1,49 @@
+
+body {
+  background: url("./images/background/BACK1.jpg") no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+}
+
+/* .bg {
+  background-image: url("");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+.card-img-top{
+  text-align: center;
+  height: 3em;
+  width: 3em;
+}
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white
+}
+
+.lead {
+  color: white
+}
+
+.display-10 {
+  color: white
+
+}
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.jumbotron {
+  background-color:transparent !important; 
+}
+
+.carousel {
+  position: relative;
+  width: 100%;
+  height:650px;
+}
